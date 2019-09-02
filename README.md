@@ -73,6 +73,8 @@ be entered before allowing form submission.
 
 The website is hosted by GitHub Pages and is deployed from the master branch. You can git clone the code to run it locally on your machine.
 
+You can also git clone the code to run it locally on your machine via this [Milestone Project 1 Git Hub Link](https://github.com/francisillingworth/milestone-project-1)
+
 ## Credits
 
 ### Content
@@ -88,6 +90,8 @@ Maps were taken from google maps.
 ## Acknowledgements
 
 Credit to tkjaergaard  https://gist.github.com/tkjaergaard/1853190  for inspiration on making the map circular and for ideas for code make it happen.
+
+Please note - When migrating this project to AWS Cloud 9 for editing before resubmission all prior commits have been lost. These original commits can be seen in original project submission.
 
 <strong>This is for educational use </strong>
 

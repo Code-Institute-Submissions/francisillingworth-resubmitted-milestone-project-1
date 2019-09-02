@@ -17,7 +17,7 @@ h1 {
     letter-spacing: 3px;
 }
 
-h4 {
+h2 {
     font-family: century gothic, sans-serif;
     font-weight: 100;
     font-size: 20px;
@@ -76,11 +76,9 @@ h4 {
 /* ------------------------------------Alert bar*/
 
 .alert {
-    padding: 3px 20px;
     text-align: right;
     background-color: #e9e7f1;
     border-color: #e9e7f1;
-    margin-right: 1%;
 }
 
 btn-group-sm>.btn,
@@ -92,9 +90,6 @@ btn-group-sm>.btn,
     margin-left: 10px;
 }
 
-.alert-container {
-    padding: 0;
-}
 
 
 /*-----------------------------------burger nav*/
@@ -161,7 +156,7 @@ btn-group-sm>.btn,
 
 /*---------------------------------------footer*/
 
-h5 {
+h4 {
     margin: 0;
     border-bottom-style: dotted;
     border-bottom-color: white;
@@ -270,7 +265,28 @@ footer {
     text-decoration: none;
 }
 
+.footerHeader {
+    font-size: 20px;
+    border-bottom-color: white;
+    border-bottom-style: dotted;
+    margin-bottom: 5px
+}
 
+/*-------------------------style across all pages style*/
+
+h3 {
+    width: 100%;
+    font-family: century gothic, sans-serif;
+    font-weight: 100;
+    font-size: 56px;
+    text-align: center;
+    letter-spacing: 3px;
+}
+
+.modal-title {
+    font-size: 20px;
+    font-weight: 600
+}
 
 /*-------------------------index.html*/
 
@@ -336,6 +352,12 @@ footer {
     transform: scale(1.1);
 }
 
+.role {
+    font-weight: 600;
+    font-size: 20px;
+    border-bottom-style: dotted;
+    border-bottom-color: white
+}
 
 
 /*-----------------------------------------classes*/
